@@ -23,3 +23,5 @@
 ╰────────────────────────────────────────────────────────────────╯
 
 ```
+
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://gitlab.com/qlinkz/qlinkz)
